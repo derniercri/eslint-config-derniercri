@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-derniercri",
+  "version": "1.0.0",
+  "description": "Dernier Cri Eslint config",
+  "main": "index.js",
+  "repository": "git@github.com:derniercri/eslint-config.git",
+  "author": "Maxime Brazeilles <maxime.brazeilles@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.7.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "prettier": "^1.13.2"
+  },
+  "private": true
+}
