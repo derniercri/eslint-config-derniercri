@@ -1,5 +1,11 @@
 # How to use ?
 
+Install the package:
+
+```bash
+$ yarn add git+ssh://git@github.com:derniercri/eslint-config-derniercri.git
+```
+
 Create or edit a `.eslintrc` file at project's root :
 
 ```js

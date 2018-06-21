@@ -6,7 +6,7 @@
   "repository": "git@github.com:derniercri/eslint-config.git",
   "author": "Maxime Brazeilles <maxime.brazeilles@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^4.10.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-config-prettier": "^2.7.0",
