@@ -95,6 +95,7 @@ module.exports = {
     'react/no-did-mount-set-state': 0,
     'react/no-did-update-set-state': 0,
     'react/no-multi-comp': 0,
+    'react/no-unused-prop-types': 1,
     'react/prefer-es6-class': 2,
     'react/prefer-stateless-function': 0,
     'react/prop-types': 0,
