@@ -49,7 +49,7 @@ module.exports = {
     'object-shorthand': 0,
     'one-var': 0,
     'operator-assignment': 0,
-    'padded-blocks': [2, { classes: 'always', switches: 'never' }],
+    'padded-blocks': [0, { classes: 'always', switches: 'never' }],
     'quote-props': [2, 'as-needed'],
     'space-before-function-paren': [2, 'never'],
     'space-in-parens': [2, 'never'],
