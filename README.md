@@ -3,7 +3,7 @@
 Install the package:
 
 ```bash
-$ yarn add git+ssh://git@github.com:derniercri/eslint-config-derniercri.git
+$ yarn add git+https://git@github.com:derniercri/eslint-config-derniercri.git
 ```
 
 Create or edit a `.eslintrc` file at project's root :
