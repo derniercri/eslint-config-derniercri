@@ -51,7 +51,11 @@ module.exports = {
     'operator-assignment': 0,
     'padded-blocks': [0, { classes: 'always', switches: 'never' }],
     'quote-props': [2, 'as-needed'],
-    'space-before-function-paren': [2, 'never'],
+    'space-before-function-paren': [2, {
+      'anonymous': 'never',
+      'named': 'never',
+      'asyncArrow': 'always',
+    }],
     'space-in-parens': [2, 'never'],
     'vars-on-top': 0,
     camelcase: 0,
