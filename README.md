@@ -30,7 +30,7 @@ And a `.prettierrc` (`prettier` can't read `eslint` configuration) :
 Finally the following script to your `package.json`
 
 ```json
-"lint": "tslint 'src/**/*.{t,j}s{,x}'"
+"lint": "eslint 'src/**/*.{t,j}s{,x}'"
 ```
 
 And voilà !
