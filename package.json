@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-derniercri",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Dernier Cri Eslint config",
   "main": "index.js",
   "repository": "git@github.com:derniercri/eslint-config.git",
