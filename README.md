@@ -27,6 +27,12 @@ And a `.prettierrc` (`prettier` can't read `eslint` configuration) :
 }
 ```
 
+Finally the following script to your `package.json`
+
+```json
+"lint": "eslint 'src/**/*.{t,j}s{,x}'"
+```
+
 And voilà !
 
-
+Check the **sample** folder of this repository for a concrete example.

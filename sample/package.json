@@ -1,0 +1,16 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint '*.{t,j}s{,x}'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-derniercri": "file:..",
+    "typescript": "^3.3.3333"
+  }
+}
