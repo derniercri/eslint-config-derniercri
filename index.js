@@ -10,5 +10,10 @@ module.exports = {
     'jsx-boolean-value': 0,
     'jsx-no-lambda': 0,
     'newline-before-return': 1
+  },
+  settings: {
+    react: {
+      version: "detect"
+    }
   }
 }
