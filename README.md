@@ -3,7 +3,11 @@
 Install the package:
 
 ```bash
-$ yarn add git+https://git@github.com/derniercri/eslint-config-derniercri.git
+# Install DernierCri's config
+$ yarn add git+https://git@github.com/derniercri/eslint-config-derniercri.git -D
+
+# Install dependencies
+$ yarn add eslint-plugin-prettier prettier eslint-config-prettier -D
 ```
 
 Create or edit a `.eslintrc` file at project's root :
